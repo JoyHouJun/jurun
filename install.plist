@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>http://106.14.116.198:8889/ios/15208.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>http://106.14.116.198:8889/ios/15208.png</string>
                 </dict>
            </array>
             
