@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/JoyHouJun/jurun/blob/master/15208.png</string>
+                    <string></string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/JoyHouJun/jurun/blob/master/15208.png</string>
+                    <string></string>
                 </dict>
            </array>
             
@@ -44,7 +44,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Hiclub</string>
+                <string>jurun</string>
             </dict>
             
         </dict>
